@@ -1,8 +1,3 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=HARI%20SHANKAR%20BABU%20M&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7" alt="Header">
-</div>
-
 <!-- TYPING BANNER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=👨‍💻+Full+Stack+Developer;🚀+Transforming+Caffeine+into+Code+☕;🌟+Building+Digital+Experiences;💡+Creating+Tomorrow's+Solutions" alt="Typing SVG" />
@@ -225,8 +220,3 @@ const hari = {
 </div>
 
 <br>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" alt="Footer">
-</div>
