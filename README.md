@@ -37,23 +37,16 @@ const hari = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   dailyLife: {
-    coffee: "☕ Essential fuel",
-    code: "💻 Day & Night",
-    learn: "📚 Never stops",
-    debug: "🐛 Hunt & destroy"
+    coffee: "Essential fuel",
+    code: "Day & Night",
+    learn: "Never stops",
+    debug: "Hunt & destroy"
   },
-  currentlyWorkingOn: [
-    "🔥 Next.js Applications",
-    "⚡ React Native Apps", 
-    "🚀 Node.js Backends",
-    "💎 UI/UX Magic"
-  ],
   architecture: {
-    frontend: ["React", "HTML5", "CSS3", "JavaScript"],
+    frontend: ["Vite+React", "HTML5", "CSS3", "JavaScript"],
     backend: ["Node.js", "Java"],
-    databases: ["MongoDB", "MySQL", "Oracle"],
-    design: ["Figma", "Photoshop"],
-    languages: ["C", "C++", "Java", "JavaScript"]
+    databases: ["MongoDB", "MySQL", "Oracle Apex"],
+    languages: ["C", "C++", "Java"]
   }
 }
 ```
@@ -140,17 +133,13 @@ const hari = {
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle" />
         <br>Oracle
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
-        <br>Figma
-      </td>
     </tr>
   </table>
 </div>
 
 <!-- Dynamic Tech Stack -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Frontend:+React+%7C+HTML5+%7C+CSS3+%7C+JavaScript;Backend:+Node.js+%7C+Java+%7C+Express;Database:+MongoDB+%7C+MySQL+%7C+Oracle;Tools:+Figma+%7C+VS+Code+%7C+Git;Languages:+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Frontend:+React+%7C+HTML5+%7C+CSS3+%7C+JavaScript;Backend:+Node.js+%7C+Java+%7C+Express;Database:+MongoDB+%7C+MySQL+%7C+Oracle;Tools:+VS+Code+%7C+Git;Languages:+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript" alt="Tech Stack Animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
