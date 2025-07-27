@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=HARI%20SHANKAR%20BABU%20M&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=16&descAlignY=50">
