@@ -1,8 +1,6 @@
+<!-- HEADER -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=HARI%20SHANKAR%20BABU%20M&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=16&descAlignY=50">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=HARI%20SHANKAR%20BABU%20M&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=16&descAlignY=50" alt="Header">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=HARI%20SHANKAR%20BABU%20M&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7" alt="Header">
 </div>
 
 <!-- TYPING BANNER -->
@@ -37,16 +35,23 @@ const hari = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   dailyLife: {
-    coffee: "Essential fuel",
-    code: "Day & Night",
-    learn: "Never stops",
-    debug: "Hunt & destroy"
+    coffee: "☕ Essential fuel",
+    code: "💻 Day & Night",
+    learn: "📚 Never stops",
+    debug: "🐛 Hunt & destroy"
   },
+  currentlyWorkingOn: [
+    "🔥 Next.js Applications",
+    "⚡ React Native Apps", 
+    "🚀 Node.js Backends",
+    "💎 UI/UX Magic"
+  ],
   architecture: {
-    frontend: ["Vite+React", "HTML5", "CSS3", "JavaScript"],
+    frontend: ["React", "HTML5", "CSS3", "JavaScript"],
     backend: ["Node.js", "Java"],
-    databases: ["MongoDB", "MySQL", "Oracle Apex"],
-    languages: ["C", "C++", "Java"]
+    databases: ["MongoDB", "MySQL", "Oracle"],
+    design: ["Figma", "Photoshop"],
+    languages: ["C", "C++", "Java", "JavaScript"]
   }
 }
 ```
@@ -139,7 +144,7 @@ const hari = {
 
 <!-- Dynamic Tech Stack -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Frontend:+React+%7C+HTML5+%7C+CSS3+%7C+JavaScript;Backend:+Node.js+%7C+Java+%7C+Express;Database:+MongoDB+%7C+MySQL+%7C+Oracle;Tools:+VS+Code+%7C+Git;Languages:+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Frontend:+React+%7C+HTML5+%7C+CSS3+%7C+JavaScript;Backend:+Node.js+%7C+Java+%7C+Express;Database:+MongoDB+%7C+MySQL+%7C+Oracle;Tools:+Figma+%7C+VS+Code+%7C+Git;Languages:+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript" alt="Tech Stack Animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -206,21 +211,6 @@ const hari = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" alt="Dev Quote" />
-</div>
-
-<br>
-
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Contribution Snake**
 
 <div align="center">
@@ -238,8 +228,5 @@ const hari = {
 
 <!-- Animated Footer -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" alt="Footer">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" alt="Footer">
 </div>
