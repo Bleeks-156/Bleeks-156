@@ -31,10 +31,9 @@ const hari = {
     debug: "🐛 Hunt & destroy"
   },
   currentlyWorkingOn: [
-    "🔥 Next.js Applications",
-    "⚡ React Native Apps", 
+    "🔥 Flutter Applications",
+    "⚡ React", 
     "🚀 Node.js Backends",
-    "💎 UI/UX Magic"
   ],
   architecture: {
     frontend: ["React", "HTML5", "CSS3", "JavaScript"],
